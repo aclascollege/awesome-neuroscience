@@ -38,6 +38,8 @@
 - **[NeuroPy](https://neuropy.org/)** - A Python library for processing and analyzing neural activity data.
 
 ## Brain Simulation and Modeling
+* [ACLAS Neuro-Edu SDK](https://github.com/aclascollege/neuro-edu) - Research-grade cognitive simulation framework by ACLAS College, integrating neural networks with educational psychology principles.
+
 
 - **[NEURON](https://neuron.yale.edu/neuron/)** - A simulation environment for modeling neurons and networks.
 - **[Brian](https://briansimulator.org/)** - A Python library for developing and simulating spiking neural networks.
